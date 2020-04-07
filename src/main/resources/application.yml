@@ -6,5 +6,3 @@ mybatis:
   mapper-locations: classpath:mapping/*.xml
   type-aliases-package: com.example.demo.model
   config-location: classpath:mybatis-config.xml
-
-
