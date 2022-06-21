@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
          <mybatis.generator.plugin.version>1.3.8</mybatis.generator.plugin.version>
-        <mysql.driver.version>8.0.19</mysql.driver.version>
+        <mysql.driver.version>8.0.28</mysql.driver.version>
         <slf4j.version>1.7.29</slf4j.version>
         <logback.version>1.2.3</logback.version>
     </properties>
